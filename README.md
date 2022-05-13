@@ -18,3 +18,7 @@
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp;
 </div>
+<h2></h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliotte0106&layout=compact&theme=react&show_icons=true)](https://github.com/eliotte0106/github-readme-stats)
+[![Jihong's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliotte0106&theme=react&show_icons=true)](https://github.com/eliotte0106/github-readme-stats)
