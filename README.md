@@ -11,7 +11,7 @@
 </div>
 
 
-<h3> 🛠 Frameworks </h3>
+<h3> 🗂 Frameworks & Library </h3>
 <div>
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">&nbsp;
